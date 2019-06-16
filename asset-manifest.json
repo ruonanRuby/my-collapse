@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ruonanRuby/my-collapse.git/static/css/main.a7db123f.chunk.css",
-    "main.js": "/ruonanRuby/my-collapse.git/static/js/main.070860df.chunk.js",
-    "main.js.map": "/ruonanRuby/my-collapse.git/static/js/main.070860df.chunk.js.map",
-    "runtime~main.js": "/ruonanRuby/my-collapse.git/static/js/runtime~main.66a2a16d.js",
-    "runtime~main.js.map": "/ruonanRuby/my-collapse.git/static/js/runtime~main.66a2a16d.js.map",
-    "static/js/2.98dcc9dd.chunk.js": "/ruonanRuby/my-collapse.git/static/js/2.98dcc9dd.chunk.js",
-    "static/js/2.98dcc9dd.chunk.js.map": "/ruonanRuby/my-collapse.git/static/js/2.98dcc9dd.chunk.js.map",
-    "index.html": "/ruonanRuby/my-collapse.git/index.html",
-    "precache-manifest.b3014cb5f699d7e720b99a1bae6bf250.js": "/ruonanRuby/my-collapse.git/precache-manifest.b3014cb5f699d7e720b99a1bae6bf250.js",
-    "service-worker.js": "/ruonanRuby/my-collapse.git/service-worker.js",
-    "static/css/main.a7db123f.chunk.css.map": "/ruonanRuby/my-collapse.git/static/css/main.a7db123f.chunk.css.map"
+    "main.css": "/my-collapse/static/css/main.a7db123f.chunk.css",
+    "main.js": "/my-collapse/static/js/main.070860df.chunk.js",
+    "main.js.map": "/my-collapse/static/js/main.070860df.chunk.js.map",
+    "runtime~main.js": "/my-collapse/static/js/runtime~main.bc154378.js",
+    "runtime~main.js.map": "/my-collapse/static/js/runtime~main.bc154378.js.map",
+    "static/js/2.98dcc9dd.chunk.js": "/my-collapse/static/js/2.98dcc9dd.chunk.js",
+    "static/js/2.98dcc9dd.chunk.js.map": "/my-collapse/static/js/2.98dcc9dd.chunk.js.map",
+    "index.html": "/my-collapse/index.html",
+    "precache-manifest.f64ae3bdd8b68d2ae80ffce701bed75f.js": "/my-collapse/precache-manifest.f64ae3bdd8b68d2ae80ffce701bed75f.js",
+    "service-worker.js": "/my-collapse/service-worker.js",
+    "static/css/main.a7db123f.chunk.css.map": "/my-collapse/static/css/main.a7db123f.chunk.css.map"
   }
 }
